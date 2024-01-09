@@ -10,3 +10,6 @@ https://cloudcasts.io/course/terraform/introduction-to-multiple-environments
 
 # Organizing With Multiple States
 https://cloudcasts.io/course/terraform/organizing-with-multiple-states
+
+# Terraform Commands Cheat Sheet:
+https://spacelift.io/blog/terraform-commands-cheat-sheet
